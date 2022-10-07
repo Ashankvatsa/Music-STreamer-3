@@ -1,0 +1,45 @@
+.heading{
+    font-size:25px;
+    width:100%;
+    margin:0px;
+}
+.note{
+    font-size:15px;
+    color:red;
+    font-weight:bolder;
+}
+body{
+    background-image:url("background.jpg");
+}
+.div_speed{
+    float:left;
+}
+.div_speed_img{
+    width:200px;
+    border-radius: 100px;
+}
+#speed{
+    font-size:23px;
+    margin:15px;
+
+}
+.div_vol{
+    float:right;
+}
+.div_vol_img{
+    width:200px;
+    border-radius: 100px;
+}
+#vol{
+    font-size:23px;
+    margin:15px;
+    
+}
+.play_button{
+    width:130px;
+    font-size:25px;
+}
+canvas{
+    border:5px solid red;
+    border-radius:20px;
+}
